@@ -1,0 +1,2 @@
+# Animal_Emotion_Detection
+Simple Animal_Emotion_Detection using machine learning
